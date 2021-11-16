@@ -1,0 +1,1 @@
+# PHP-Null-Design-Pattern
